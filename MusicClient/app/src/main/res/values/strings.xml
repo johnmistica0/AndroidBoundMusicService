@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="your_id_string">Your ID</string>
+    <string name="get_new_id_string">Get New ID</string>
+    <string-array name="songs">
+        <item>Song 1</item>
+        <item>Song 2</item>
+        <item>Song 3</item>
+        <item>Song 4</item>
+        <item>Song 5</item>
+    </string-array>
+</resources>

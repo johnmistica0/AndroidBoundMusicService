@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Mar 31 10:14:54 CDT 2021
+0.baseType=DIRECTORY
+0.base=/Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

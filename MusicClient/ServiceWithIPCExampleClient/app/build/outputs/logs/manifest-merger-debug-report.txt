@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/df118791ad5c8f74944310462fbca635/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3e1e82bbaf848e0d67d651da51ecf0c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ca3f1d95fbe50cea4d491b811c31ccc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c4b51998967acdd6221de737335f41fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7ee8c03e2884a4ac644db68750970d7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d9ee311423e0fb6c3f08f31039cb010/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b29548d8b3c3310c12c717e336962ea1/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e59a5cf5a341a7bec4d52e4f8af7810e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c0c0b70a63acf5403e3d4212dbeba998/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/edb07b1de2bd905b6ed1e036293ca934/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ab56da3f67e10e1c04775bfc69c9a237/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01a8a5a446247d6a5c428bb891b73871/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+uses-permission#course.examples.Services.KeyService.GEN_ID
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:5-82
+	android:name
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:22-79
+application
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:9:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ca3f1d95fbe50cea4d491b811c31ccc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ca3f1d95fbe50cea4d491b811c31ccc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b29548d8b3c3310c12c717e336962ea1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b29548d8b3c3310c12c717e336962ea1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ca3f1d95fbe50cea4d491b811c31ccc/AndroidManifest.xml:22:18-91
+	android:icon
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:10:9-36
+activity#course.examples.Services.KeyClient.KeyServiceUser
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:13:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/df118791ad5c8f74944310462fbca635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/df118791ad5c8f74944310462fbca635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3e1e82bbaf848e0d67d651da51ecf0c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3e1e82bbaf848e0d67d651da51ecf0c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ca3f1d95fbe50cea4d491b811c31ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ca3f1d95fbe50cea4d491b811c31ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c4b51998967acdd6221de737335f41fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c4b51998967acdd6221de737335f41fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7ee8c03e2884a4ac644db68750970d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7ee8c03e2884a4ac644db68750970d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d9ee311423e0fb6c3f08f31039cb010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d9ee311423e0fb6c3f08f31039cb010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b29548d8b3c3310c12c717e336962ea1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b29548d8b3c3310c12c717e336962ea1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e59a5cf5a341a7bec4d52e4f8af7810e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e59a5cf5a341a7bec4d52e4f8af7810e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c0c0b70a63acf5403e3d4212dbeba998/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c0c0b70a63acf5403e3d4212dbeba998/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/edb07b1de2bd905b6ed1e036293ca934/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/edb07b1de2bd905b6ed1e036293ca934/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ab56da3f67e10e1c04775bfc69c9a237/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ab56da3f67e10e1c04775bfc69c9a237/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01a8a5a446247d6a5c428bb891b73871/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ugobuy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/01a8a5a446247d6a5c428bb891b73871/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml

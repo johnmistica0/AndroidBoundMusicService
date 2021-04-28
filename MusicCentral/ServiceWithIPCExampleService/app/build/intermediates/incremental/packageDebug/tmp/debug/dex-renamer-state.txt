@@ -1,0 +1,4 @@
+#Wed Mar 31 10:14:54 CDT 2021
+base.0=/Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

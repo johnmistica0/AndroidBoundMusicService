@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 28 13:43:45 CDT 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\John\\Desktop\\MusicCentral\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

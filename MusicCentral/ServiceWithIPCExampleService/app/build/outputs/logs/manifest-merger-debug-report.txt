@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+permission#course.examples.Services.KeyService.GEN_ID
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:7:5-9:18
+	android:protectionLevel
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:7:17-74
+application
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:11:5-24:19
+	android:icon
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:12:9-36
+service#course.examples.Services.KeyService.KeyGeneratorImpl
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:15:9-23:19
+	android:label
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:16:13-45
+	android:exported
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:18:13-36
+	android:permission
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:19:13-76
+	android:name
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:17:13-45
+intent-filter#action:name:course.examples.Services.KeyCommon.KeyGenerator
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:20:13-22:29
+action#course.examples.Services.KeyCommon.KeyGenerator
+ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:21:17-90
+	android:name
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml:21:25-87
+uses-sdk
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ugobuy/CS478 API 30 updated apps/Services/ServiceWithIPCExampleService/app/src/main/AndroidManifest.xml
